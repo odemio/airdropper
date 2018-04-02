@@ -22,7 +22,9 @@ address to the recipients. This has two distinct advantages:
 - ODEM has already published the address which holds the tokens to be
   distributed as bounty. The recipients will see that their tokens came
   directly from this address, so they can verify that they received their
-  rewards in good order.
+  rewards in good order. All the addresses and contracts can be found here: 
+  https://github.com/odemio/ico/
+
 - The contract can be tested on the main network without interfering with the
   allocation of bounty tokens, and without the need to deploy a new instance
   after testing.
