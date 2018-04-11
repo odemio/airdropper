@@ -1,6 +1,6 @@
 # ODEM Airdropper
 
-Airdropper contract for token bounty distribution post ICO.
+Airdropper contract for token bounty distribution
 
 ## Why an airdropper?
 
